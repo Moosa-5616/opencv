@@ -1,0 +1,5 @@
+# Python dependencies for this workshop repo
+# Install with: python -m pip install -r requirements.txt
+
+ultralytics>=8.0.0
+opencv-python>=4.8.0
